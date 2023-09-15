@@ -8,4 +8,4 @@ Therefore, a system that can identify at-risk populations more accurately can be
 - What population groups are at a greater risk of heart failure?
 - To what extent does smoking as a lifestyle and diabetes as a chronic health condition bias heart failure?
 
-The full article is available on [Medium](https://abdulmoeedasad.medium.com/exploring-heart-failure-with-data-1de7c6c2086f)
+The full article is available to view on [Medium](https://abdulmoeedasad.medium.com/exploring-heart-failure-with-data-1de7c6c2086f).
